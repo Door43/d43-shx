@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shx:home|Door43 (shx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shx|d43-shx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shx/archive/master.zip|d43-shx.zip]]
+
+**Recent Changes**
+{{changes>ns = shx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shx|Ethnologue data]]
+
